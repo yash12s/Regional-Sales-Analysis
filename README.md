@@ -12,14 +12,14 @@ This is an end-to-end Data Analytics project to analyze regional sales data usin
 
 ### 1. Data Cleaning (Python)
 - Checked for null values
-- Parsed `order_date` as datetime
+- Parsed order_date as datetime
 - Filtered dataset for year-wise analysis
 
 ### 2. Feature Engineering
 - Created new columns like:
-  - `total_cost` = order_quantity × cost
-  - `profit` = revenue - total_cost
-  - `profit_margin_pct`
+  - total_cost = order_quantity × cost
+  - profit = revenue - total_cost
+  - profit_margin_pct
 
 ### 3. Exploratory Data Analysis
 - Monthly Sales Trend (Line Chart)
@@ -40,8 +40,8 @@ This is an end-to-end Data Analytics project to analyze regional sales data usin
 
 ##  Final Deliverables
 
-- `Regional_Sales_Analysis.ipynb` → Python Analysis & Visualizations
-- `Regional_Sales_Dashboard.pbix` → Power BI Dashboard File
+- Regional_Sales_Analysis.ipynb → Python Analysis & Visualizations
+- Regional_Sales_Dashboard.pbix → Power BI Dashboard File
 
 ## How to Run
 

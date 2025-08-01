@@ -46,6 +46,6 @@ This is an end-to-end Data Analytics project to analyze regional sales data usin
 ## How to Run
 
 1. Clone the repository
-2. Run the `.ipynb` notebook in Jupyter/Colab
-3. Open `.pbix` file in Power BI Desktop for dashboard
+2. Run the .ipynb notebook in Jupyter/Colab
+3. Open .pbix file in Power BI Desktop for dashboard
  

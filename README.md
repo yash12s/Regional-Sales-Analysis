@@ -5,7 +5,7 @@ This is an end-to-end Data Analytics project to analyze regional sales data usin
 ## Project Overview
 
  **Tools Used:** Python (Pandas, Matplotlib, Seaborn), Power BI
- **Skills Demonstrated:** Data Cleaning, EDA, Visualization, Business Insight Generation
+ **Skills:** Data Cleaning, EDA, Visualization, Business Insight Generation
  **Dataset:** Sales data with 64,000+ records including product, customer, location, revenue, and profit details.
 
 ##  Key Steps in the Project

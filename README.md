@@ -49,5 +49,3 @@ This is an end-to-end Data Analytics project to analyze regional sales data usin
 2. Run the `.ipynb` notebook in Jupyter/Colab
 3. Open `.pbix` file in Power BI Desktop for dashboard
  
-🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-
